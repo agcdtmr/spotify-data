@@ -2,6 +2,9 @@
 
 Exploratory Data Analysis project using Spotify dataset.
 
+
+## To Do / To Fix:
+
 - [x] Top 5 most popular artists
 - [ ] Top 5 loudest tracks
 - [ ] Artist with the most danceability song
@@ -25,9 +28,6 @@ Exploratory Data Analysis project using Spotify dataset.
 - [ ] Most common durations
 - [ ] Most popular artist
 - [ ] Top 10 tracks with the most valence
-
-
-## To Do / To Fix:
 
 
 ## In this step-by-step project, I am learning how to:
