@@ -9,25 +9,12 @@ Exploratory Data Analysis project using Spotify dataset.
 - [x] Top 5 loudest tracks
 - [x] Artist with the most danceability song
 - [x] Top 10 instrumental tracks
-- [x] Multiple feature plots 
+- [x] Multiple feature plots: : tempo, loudness, acousticness, danceability, duration_ms, energy, instrumentalness, liveness, speechiness, valence
 - [ ] Top 10 energetic tracks
 - [ ] Most trending genre
 - [ ] Most common durations
 - [ ] Most popular artist
 - [ ] Top 10 tracks with the most valence
-- tempo
-- loudness
-- acousticness
-- danceability
-- duration_ms
-- energy
-- instrumentalness
-- liveness
-- speechiness
-- valence
-
-
-
 
 
 ## In this step-by-step project, I am learning how to:
