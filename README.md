@@ -21,7 +21,7 @@ Exploratory Data Analysis project using Spotify dataset.
 - speechiness
 - valence
 
-### Self Assesment
+#### Self Assesment
 
 - [ ] Top 10 energetic tracks
 - [ ] Most trending genre
