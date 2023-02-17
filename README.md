@@ -15,13 +15,7 @@ Exploratory Data Analysis project using Spotify dataset.
 ## In this step-by-step project, I am learning how to:
 - set up data environment
 - how to use jupyter notebook
-- how to import different library or utilities
-
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-
+- how to import different library or utilities: import pandas as pd, import numpy as np, import seaborn as sns, import matplotlib.pyplot as plt
 - how to use seaborn style
 - how to use pandas to read a csv file
 - how to drop a column
