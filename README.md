@@ -2,7 +2,7 @@
 
 Exploratory Data Analysis project using Spotify dataset.
 
-- [ ] Top 5 most popular artists
+- [x] Top 5 most popular artists
 - [ ] Top 5 loudest tracks
 - [ ] Artist with the most danceability song
 - [ ] To 10 instrumentalness tracks
